@@ -56,7 +56,7 @@ s50_pages/*.py ← paginile
 - [ ] **TODO 5.2** `GET /cauta?intrebare=&n=2` — `n` în afara 1–5 → `400`
 - [ ] **TODO 5.3** `POST /chat` — eroare de la OpenAI → `502`
 
-## Pasul 6 — `comun.py` + `s50_ui.py` (gata scrise)
+## Pasul 6 — `comun.py` + `s50_ui.py`
 
 `api(metoda, cale, ...)` întoarce `(ok, rezultat)`; `s50_ui.py` face meniul cu
 cele 4 pagini. `API_URL` din `comun.py` trebuie să aibă **același port** ca
