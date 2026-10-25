@@ -77,8 +77,6 @@ Aplicația pornește cu 8 lecții (folderul `lectii_initiale/`):
 | Investiții pentru începători: ETF-uri și diversificare | Investiții |
 | Pensia în România: Pilonul I, Pilonul II și Pilonul III | Pensie |
 
-Citiți-le — sunt noțiuni pe care le veți folosi toată viața, nu doar în aplicație.
-
 ## Exemple de întrebări
 
 | Întrebare | Comportament așteptat |
