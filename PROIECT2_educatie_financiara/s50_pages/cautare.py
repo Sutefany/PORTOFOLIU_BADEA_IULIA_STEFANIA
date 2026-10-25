@@ -1,0 +1,39 @@
+# =============================================================
+# PAGINA  -  Cautare (fara modelul de chat)
+# =============================================================
+
+import streamlit as st
+from comun import api
+
+st.title("🔎 Cautare in lectii")
+st.caption("Cautarea se face dupa SENS: incearca o intrebare care nu foloseste "
+           "cuvintele din lectii, ex: *de ce valoreaza banii mei mai putin in fiecare an?*")
+
+with st.expander("ℹ️ Cum functioneaza pagina asta? (fara modelul de chat)"):
+    st.markdown(
+        "Pe aceasta pagina **nu se foloseste modelul de chat**."
+        "Scrie un subiect sau o întrebare pentru a găsi lecțiile relevante.\n\n"
+        "- Rezultatele sunt afișate în ordinea relevanței.\n"
+        "- Conținutul lecțiilor este afișat exact cum a fost salvat.\n"
+        "- Poți deschide o lecție pentru a vedea toate detaliile.\n\n"
+        "Dacă dorești un răspuns personalizat și explicații generate pe baza "
+        "lecțiilor, folosește pagina **Profesor AI**."
+    )
+
+intrebare = st.text_input("Intrebare")
+n = st.slider("Cate lectii", min_value=1, max_value=5, value=2)
+
+if intrebare:
+    ok, rezultate = api("GET", "/cauta", params={"intrebare": intrebare, "n": n}, timeout=30)
+    if not ok:
+        st.error(rezultate)
+        st.stop()
+
+    for r in rezultate:
+        with st.container(border=True):
+            if r['distanta'] > 0.6:
+                st.write(f"{r['titlu']} :red[({r['distanta']})] - {r['text']}")
+            else:
+                st.write(f"{r['titlu']} :green[({r['distanta']})] - {r['text']}")
+
+    st.caption("Distanta mai MICA = lectie mai potrivita.")
