@@ -35,7 +35,7 @@ def calculeaza_dobanda_compusa(suma: float, procent: float, ani: int) -> str:
             f"Formula utilizata: suma * (1 + procent / 100) ** ani")
 
 # #############################################################
-# PARTEA 2 - AGENTUL  (gata scris)
+# PARTEA 2 - AGENTUL
 # #############################################################
 
 SYSTEM_PROMPT = (

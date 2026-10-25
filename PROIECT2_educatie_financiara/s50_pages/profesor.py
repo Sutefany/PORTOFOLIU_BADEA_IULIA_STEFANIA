@@ -1,5 +1,5 @@
 # =============================================================
-# PAGINA  -  Profesor AI  (ca Asistent AI de la s49)
+# PAGINA  -  Profesor AI
 # =============================================================
 
 import streamlit as st
