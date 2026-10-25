@@ -14,9 +14,7 @@ baza ghidurilor** — cu sursa fiecărui răspuns.
 ## Cui se adresează
 
 Persoanelor de 25–40 de ani care se reorientează spre IT: au experiență în alt
-domeniu, învață programare și se pregătesc de primul job tehnic. Adică exact
-voi. Aplicația pe care o construiți o puteți folosi apoi pentru propria
-căutare de job.
+domeniu, învață programare și se pregătesc de primul job tehnic. 
 
 ## Ce face aplicația
 
