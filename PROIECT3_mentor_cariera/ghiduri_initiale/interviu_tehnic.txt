@@ -1,0 +1,32 @@
+Interviul tehnic pentru juniori
+
+La un interviu tehnic pentru junior nu se asteapta sa stii totul. Se
+verifica doua lucruri: daca ai bazele solide (tipuri de date, functii,
+structuri de control, lucru cu liste si dictionare) si cum gandesti cand
+nu stii raspunsul.
+
+In timpul unui exercitiu de programare live, gandeste cu voce tare. Spune
+ce ai inteles din cerinta, ce variante vezi si de ce alegi una. Un
+intervievator poate ajuta un candidat care isi explica gandirea; nu poate
+ajuta un candidat care scrie in tacere timp de 15 minute.
+
+Inainte sa scrii cod, pune intrebari despre cerinta: ce tip au datele de
+intrare, ce se intampla cu o lista goala, daca pot exista valori duplicate.
+Aceste intrebari nu arata nesiguranta, ci exact ce face un programator in
+practica inainte de a implementa ceva.
+
+Daca nu stii raspunsul la o intrebare teoretica, spune asta direct si
+explica ce ai face ca sa afli: "Nu am folosit inca asta, dar as cauta in
+documentatie si as testa intr-un exemplu mic." Un raspuns inventat este
+recunoscut aproape intotdeauna si costa mai mult decat un "nu stiu" onest.
+
+Subiecte frecvente la interviurile Python pentru junior: diferenta dintre
+lista, tuplu, set si dictionar; ce este o functie si ce sunt *args si
+**kwargs; tratarea erorilor cu try/except; clase si obiecte; ce este un
+API REST si ce inseamna codurile 200, 201, 400, 404, 500; ce este Git si
+cum lucrezi cu branch-uri.
+
+La final, intervievatorul te intreaba aproape intotdeauna daca ai intrebari.
+Pregateste 2-3 intrebari reale: cum arata prima luna pentru un junior, cum
+se face code review in echipa, ce tehnologii folosesc in proiectul pentru
+care angajeaza. Raspunsul "nu am intrebari" lasa impresia de dezinteres.

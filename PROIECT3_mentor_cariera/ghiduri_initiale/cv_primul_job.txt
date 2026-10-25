@@ -1,0 +1,33 @@
+CV-ul pentru primul job in IT
+
+Un recrutor petrece in medie 6-10 secunde pe prima citire a unui CV. In
+acest timp cauta trei lucruri: ce rol vrei, ce tehnologii stii si ce ai
+construit concret. Daca acestea nu se vad in prima treime a paginii, CV-ul
+este de obicei trecut deoparte.
+
+Pentru un junior, CV-ul ideal are o singura pagina. Ordinea recomandata:
+date de contact (inclusiv link catre GitHub si LinkedIn), un rezumat de 2-3
+randuri, competente tehnice, proiecte, experienta anterioara, educatie.
+Proiectele stau inaintea experientei atunci cand experienta anterioara nu
+are legatura cu IT-ul.
+
+Rezumatul nu trebuie sa fie generic ("persoana motivata si dornica sa
+invete"). Un rezumat bun spune rolul tintit si dovada: "Junior Python
+developer, cu 3 aplicatii web construite cu FastAPI si Streamlit, dintre
+care una cu asistent AI bazat pe RAG."
+
+La fiecare proiect scrii ce face aplicatia, ce tehnologii ai folosit si un
+rezultat sau o provocare rezolvata. Exemplu: "Aplicatie de buget personal
+(FastAPI, MySQL, Streamlit) - 7 rute REST, validare cu Pydantic, agent AI
+care adauga cheltuieli din text liber."
+
+Experienta din alt domeniu nu se ascunde, ci se traduce in competente
+utile in IT: comunicare cu clientii, lucru cu termene, organizare,
+rezolvarea problemelor. O persoana care a lucrat in vanzari intelege
+utilizatorii; una din contabilitate intelege datele si precizia.
+
+Greseli frecvente: CV de 3-4 pagini, lista lunga de tehnologii fara nicio
+dovada ca au fost folosite, fotografii sau date personale inutile (CNP,
+stare civila), greseli de scriere si un singur CV trimis identic la toate
+anunturile. Adapteaza CV-ul la fiecare anunt, folosind cuvintele cheie din
+descrierea postului.

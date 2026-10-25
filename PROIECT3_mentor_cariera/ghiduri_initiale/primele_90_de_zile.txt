@@ -1,0 +1,31 @@
+Primele 90 de zile la primul job in IT
+
+In primele saptamani, nimeni nu se asteapta ca un junior sa fie productiv
+imediat. Se asteapta sa invete repede contextul: proiectul, codul,
+instrumentele si oamenii. Obiectivul primei luni este sa intelegi, nu sa
+impresionezi.
+
+Pune intrebari, dar pregatite. Inainte sa intrebi, incearca singur 30-60 de
+minute, apoi intreaba aratand ce ai incercat: "Am vrut sa pornesc proiectul
+local, am urmat README-ul, dar primesc eroarea X; am verificat Y si Z."
+Aceasta forma economiseste timpul colegului si arata ca ai lucrat.
+
+Tine un document personal de notite: cum se porneste proiectul, comenzile
+folosite des, cine se ocupa de ce, deciziile importante. Notitele te scutesc
+de aceeasi intrebare pusa de doua ori si, mai tarziu, pot deveni
+documentatie utila pentru urmatorul junior.
+
+Code review-ul este o forma de invatare, nu o critica personala. Cand
+primesti comentarii la cod, multumeste, intreaba daca nu intelegi motivul
+si aplica schimbarea. Dupa cateva saptamani, aceleasi comentarii nu ar mai
+trebui sa apara.
+
+Intalnirile 1:1 cu managerul sau mentorul sunt momentul potrivit pentru a
+cere feedback explicit: "Ce ar trebui sa fac diferit?", "Unde ar trebui sa
+fiu peste trei luni?". Feedback-ul cerut des si devreme previne surprizele
+de la evaluarea de la finalul perioadei de proba.
+
+Pana la ziua 90, un obiectiv realist pentru un junior este sa poata prelua
+singur sarcini mici (un bug, o functionalitate simpla), sa stie unde sa
+caute informatia si pe cine sa intrebe, si sa fi primit cel putin o data
+feedback pozitiv concret pe munca livrata.

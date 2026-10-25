@@ -1,0 +1,36 @@
+Roluri in IT pentru cei care incep
+
+Backend developer: scrie partea de server a aplicatiilor - API-uri, logica
+de business, lucrul cu baze de date. Tehnologii frecvente: Python
+(FastAPI, Django), Java, C#, Node.js, SQL. Este rolul cel mai apropiat de
+ce construiesti in acest curs cu FastAPI si MySQL.
+
+Frontend developer: construieste interfata pe care o vede utilizatorul in
+browser. Tehnologii: HTML, CSS, JavaScript, framework-uri ca React sau
+Angular. Potrivit pentru persoanele care au si un simt vizual si le place
+sa vada imediat rezultatul muncii lor.
+
+QA (Quality Assurance) / tester: verifica daca aplicatia functioneaza
+corect, scrie cazuri de test si raporteaza defecte. QA manual nu cere
+programare; QA automation scrie teste automate, de exemplu in Python cu
+pytest sau Selenium. Este o cale frecventa de intrare in IT pentru cei care
+se reorienteaza.
+
+Data analyst: transforma date brute in raspunsuri pentru business -
+rapoarte, grafice, tendinte. Tehnologii: SQL, Excel, Python cu pandas,
+instrumente ca Power BI sau Tableau. Potrivit pentru cei care au lucrat cu
+cifre, de exemplu in contabilitate, vanzari sau logistica.
+
+DevOps / Cloud engineer: se ocupa de infrastructura pe care ruleaza
+aplicatiile - servere, cloud (AWS, Azure), automatizarea livrarii codului,
+monitorizare. De obicei nu este un rol de inceput; se ajunge in el dupa
+experienta ca developer sau administrator de sisteme.
+
+AI engineer (aplicatii cu LLM): integreaza modele de limbaj in aplicatii -
+chatboti, agenti, sisteme RAG peste documentele unei firme. Combina
+competente de backend (API-uri, baze de date) cu lucrul cu modele AI. Este
+un rol nou si cautat; proiectele din acest curs sunt exact de acest tip.
+
+Pentru alegerea rolului, porneste de la ce iti place sa faci zilnic:
+construiesti logica (backend), interfete (frontend), verifici si gasesti
+probleme (QA) sau cauti raspunsuri in date (data analyst).

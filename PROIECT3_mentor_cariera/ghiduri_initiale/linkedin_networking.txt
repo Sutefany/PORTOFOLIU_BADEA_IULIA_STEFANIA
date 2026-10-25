@@ -1,0 +1,32 @@
+LinkedIn si networking
+
+O parte importanta din angajarile in IT, mai ales pentru juniori, se face
+prin recomandari si contacte, nu doar prin aplicari la anunturi. Un
+profil LinkedIn bun si cateva conexiuni potrivite cresc vizibil numarul de
+invitatii la interviu.
+
+Titlul profilului (headline) este cel mai vizibil camp. In loc de
+"Cautator de loc de munca", scrie rolul tintit si tehnologiile: "Junior
+Python Developer | FastAPI, SQL, Streamlit | Aplicatii cu AI (RAG)".
+Recrutorii cauta dupa aceste cuvinte cheie.
+
+Sectiunea "Despre" spune povestea reorientarii in 4-5 propozitii: de unde
+vii, de ce ai ales IT-ul, ce ai construit si ce cauti acum. Sectiunea
+"Proiecte" sau "Featured" contine link-uri catre GitHub si, daca exista,
+catre o aplicatie pornita sau o demonstratie video.
+
+Mesajele catre oameni noi trebuie sa fie scurte si personale. Un mesaj
+bun numeste motivul contactarii si cere ceva mic: "Am vazut ca ai trecut
+de la vanzari la QA. Fac aceeasi tranzitie si as aprecia 15 minute sa aflu
+ce te-a ajutat cel mai mult." Mesajele generice sau cererile directe de
+job raman de obicei fara raspuns.
+
+Postarile despre ce inveti si ce construiesti (de exemplu, o data pe
+saptamana) te fac vizibil fara sa ceri nimic. O postare despre un proiect
+terminat, cu o captura de ecran si ce ai invatat, poate aduce mesaje de la
+recrutori sau de la oameni din domeniu.
+
+Evenimentele (meetup-uri, conferinte, workshop-uri) si comunitatile online
+sunt alte surse de contacte. Scopul nu este sa colectezi conexiuni, ci sa
+construiesti cateva relatii reale cu oameni care iti pot da sfaturi sau te
+pot recomanda.

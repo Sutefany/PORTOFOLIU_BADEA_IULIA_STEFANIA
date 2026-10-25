@@ -1,0 +1,32 @@
+Portofoliul pe GitHub
+
+Pentru un candidat fara experienta in IT, portofoliul este principala
+dovada a competentelor. Un recrutor tehnic deschide de obicei 1-2 proiecte
+si se uita la trei lucruri: daca proiectul porneste, daca codul este
+organizat si daca exista un README clar.
+
+Doua sau trei proiecte complete valoreaza mai mult decat zece proiecte
+incepute. Un proiect complet are o problema reala pe care o rezolva, cod
+impartit in fisiere cu roluri clare, date de test si instructiuni de
+pornire.
+
+README-ul este prima pagina a proiectului. El trebuie sa contina: ce face
+aplicatia (o propozitie), o captura de ecran, tehnologiile folosite, pasii
+de instalare si pornire, si ce ai invatat sau ce ai vrea sa imbunatatesti.
+Fara README, multi recrutori inchid proiectul fara sa citeasca codul.
+
+Istoricul de commit-uri arata cum lucrezi. Commit-uri mici, cu mesaje clare
+("adauga validarea sumei in TranzactieIn"), arata o persoana organizata. Un
+singur commit cu mesajul "final" sugereaza ca proiectul a fost copiat sau
+scris in graba.
+
+Nu publica niciodata parole sau chei API in cod. Cheile se pastreaza in
+variabile de mediu sau intr-un fisier .env, trecut in .gitignore. O cheie
+publicata pe GitHub este gasita de programe automate in cateva minute si
+poate genera costuri mari.
+
+Alege proiecte legate de rolul tintit: pentru backend, un API cu baza de
+date; pentru data analyst, o analiza cu pandas si grafice; pentru AI, o
+aplicatie cu RAG sau agenti. Un proiect care rezolva o problema din
+domeniul tau anterior (de exemplu, contabilitate sau logistica) este si mai
+convingator, pentru ca arata intelegerea problemei, nu doar a codului.
