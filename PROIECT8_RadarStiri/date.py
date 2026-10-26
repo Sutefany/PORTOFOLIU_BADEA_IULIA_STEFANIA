@@ -1,0 +1,3 @@
+username = "root"
+password = "admin"
+OPEN_API_KEY = "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"
